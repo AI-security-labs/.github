@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/lemebreak.ai-6366F1?style=flat-square&logo=safari&logoColor=white)](https://lemebreak.ai)
 &nbsp;![Status](https://img.shields.io/badge/status-beta-9333EA?style=flat-square)
-&nbsp;![Built with Claude](https://img.shields.io/badge/built%20with-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 &nbsp;![React](https://img.shields.io/badge/React-19-0284C7?style=flat-square&logo=react&logoColor=white)
 &nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi&logoColor=white)
 
