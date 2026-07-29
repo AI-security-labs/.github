@@ -18,6 +18,14 @@ You describe the scenario - *"an SSRF that reaches a cloud metadata endpoint and
 
 No slides. No pre-canned CTF. A live thing you break with your own hands.
 
+## See it in action
+
+<div align="center">
+
+<video src="https://github.com/AI-security-labs/.github/raw/main/profile/lemebreak-demo.mp4" controls muted width="820"></video>
+
+</div>
+
 ## What makes it different
 
 **Real vulnerabilities, real evidence.**
