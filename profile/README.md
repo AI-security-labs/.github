@@ -20,7 +20,7 @@ No slides. No pre-canned CTF. A live thing you break with your own hands.
 
 ## See it in action
 
-https://github.com/user-attachments/assets/0bb595a7-6fdb-4820-86be-954eaf4e5f08
+https://github.com/user-attachments/assets/d182ac9c-4126-4b02-a5cd-ad02e8e7c275
 
 ## What makes it different
 
