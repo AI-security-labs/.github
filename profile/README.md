@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/AI-security-labs/.github/main/profile/lb-logo.svg" width="76" alt="LemeBreak" />
+
 # LemeBreak
 
 **Real, exploitable security labs on demand - with an AI research companion.**
