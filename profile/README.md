@@ -22,7 +22,7 @@ No slides. No pre-canned CTF. A live thing you break with your own hands.
 
 <div align="center">
 
-<video src="https://github.com/AI-security-labs/.github/raw/main/profile/lemebreak-demo.mp4" controls muted width="820"></video>
+**[▶ Watch the demo (45s, no audio)](https://github.com/AI-security-labs/.github/blob/main/profile/lemebreak-demo.mp4)**
 
 </div>
 
