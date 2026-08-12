@@ -19,6 +19,8 @@ It's hosted at **[lemebreak.ai](https://lemebreak.ai)** and currently in beta. T
 
 ## Demo
 
+A single prompt becomes a live Azure lab: the builder agent designs and stands up the vulnerable environment, then a blind red team AI operator attacks it on its own - SSRF to instance metadata, managed-identity theft, an ARM `listKeys` bypass, and private blob exfiltration.
+
 https://github.com/user-attachments/assets/28f7f432-1529-4df4-bab3-4fd49ea8ef16
 
 ## Highlights
@@ -28,6 +30,7 @@ https://github.com/user-attachments/assets/28f7f432-1529-4df4-bab3-4fd49ea8ef16
 - **Real evidence, not flags.** No `FLAG{}`, no planted files, no simulations. Success is exfiltrated data, a landed shell, a stolen secret, an escalated role.
 - **A workspace, not a walkthrough.** A browser IDE with an attacker shell, the live target, and - for cloud labs - a situational-awareness graph of identities and trust relationships.
 - **An AI research companion.** A seasoned offensive-security practitioner grounded in the live environment, where the conversation and the lab are the same surface.
+- **A blind red team AI operator.** Hand a lab to an autonomous operator that gets no walkthrough and no answer key, then watch the attack chain build in real time and take the wheel whenever you want.
 - **Isolated and ephemeral.** Every lab is network-isolated, TTL-enforced, and torn down automatically.
 
 ## How it works
