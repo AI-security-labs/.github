@@ -61,6 +61,18 @@ A sample exchange:
 
 It answers the question, then points at the door you didn't see.
 
+## The red team operator
+
+Cloud labs come with a second agent, and this one you don't talk to. You watch it work.
+
+The operator starts on a foothold inside your lab knowing exactly one thing: the target's front door. No walkthrough, no source, no map of the environment, no hint about where the weakness is. It runs on a clean-room image with LemeBreak's own tooling stripped out at build time, so it can't read the platform's files and orient itself for free. Everything it knows, it earns by running a command and reading what comes back.
+
+It has two tools. Run one shell command in the foothold, or file a report. That's the whole interface. What to look at, what to try, what to chase, and whether it has actually landed something are all its own calls, made with a full offensive kit against real cloud infrastructure.
+
+You watch the chain build in real time, one step at a time, with its reasoning in the open. Leave it alone and you get a clean run, front door to whatever it walks out with. Or steer it mid-engagement, point it somewhere new, and take the wheel whenever you want.
+
+It works from its own isolated, throwaway container, and it's capped on both steps and wall-clock time.
+
 ## Lab types
 
 | | App labs | Cloud labs |
