@@ -19,7 +19,7 @@ It's hosted at **[lemebreak.ai](https://lemebreak.ai)** and currently in beta. T
 
 ## Demo
 
-https://github.com/user-attachments/assets/d182ac9c-4126-4b02-a5cd-ad02e8e7c275
+https://github.com/user-attachments/assets/884bbf3f-dd40-4af2-add9-1a08fc6636ef
 
 ## Highlights
 
